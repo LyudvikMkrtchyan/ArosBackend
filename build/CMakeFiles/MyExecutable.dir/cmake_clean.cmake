@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/MyExecutable.dir/implement/carpets.cpp.o"
+  "CMakeFiles/MyExecutable.dir/implement/carpets.cpp.o.d"
+  "CMakeFiles/MyExecutable.dir/implement/dataBase.cpp.o"
+  "CMakeFiles/MyExecutable.dir/implement/dataBase.cpp.o.d"
+  "CMakeFiles/MyExecutable.dir/implement/evantSwitch.cpp.o"
+  "CMakeFiles/MyExecutable.dir/implement/evantSwitch.cpp.o.d"
+  "CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation.cpp.o"
+  "CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation.cpp.o.d"
+  "CMakeFiles/MyExecutable.dir/implement/evants/complexOperationEvants.cpp.o"
+  "CMakeFiles/MyExecutable.dir/implement/evants/complexOperationEvants.cpp.o.d"
+  "CMakeFiles/MyExecutable.dir/implement/evants/optionsEvants.cpp.o"
+  "CMakeFiles/MyExecutable.dir/implement/evants/optionsEvants.cpp.o.d"
+  "CMakeFiles/MyExecutable.dir/implement/evants/ordersEvants.cpp.o"
+  "CMakeFiles/MyExecutable.dir/implement/evants/ordersEvants.cpp.o.d"
+  "CMakeFiles/MyExecutable.dir/implement/evants/workerEvants.cpp.o"
+  "CMakeFiles/MyExecutable.dir/implement/evants/workerEvants.cpp.o.d"
+  "CMakeFiles/MyExecutable.dir/implement/finances.cpp.o"
+  "CMakeFiles/MyExecutable.dir/implement/finances.cpp.o.d"
+  "CMakeFiles/MyExecutable.dir/implement/helperFunctions.cpp.o"
+  "CMakeFiles/MyExecutable.dir/implement/helperFunctions.cpp.o.d"
+  "CMakeFiles/MyExecutable.dir/implement/main.cpp.o"
+  "CMakeFiles/MyExecutable.dir/implement/main.cpp.o.d"
+  "CMakeFiles/MyExecutable.dir/implement/network.cpp.o"
+  "CMakeFiles/MyExecutable.dir/implement/network.cpp.o.d"
+  "CMakeFiles/MyExecutable.dir/implement/options.cpp.o"
+  "CMakeFiles/MyExecutable.dir/implement/options.cpp.o.d"
+  "CMakeFiles/MyExecutable.dir/implement/orders.cpp.o"
+  "CMakeFiles/MyExecutable.dir/implement/orders.cpp.o.d"
+  "CMakeFiles/MyExecutable.dir/implement/time.cpp.o"
+  "CMakeFiles/MyExecutable.dir/implement/time.cpp.o.d"
+  "CMakeFiles/MyExecutable.dir/implement/workers.cpp.o"
+  "CMakeFiles/MyExecutable.dir/implement/workers.cpp.o.d"
+  "MyExecutable"
+  "MyExecutable.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/MyExecutable.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,22 @@
+table Carpet
+id                     = int               = auto_increment 
+address                = varchar(255) //Հասցե 
+entrance               = varchar(10) // Մուտք
+phone_number           = varchar(50) // Հեռախոսահամար
+floor                  = varchar(10) // Հարկ
+flat                   = varchar(10) // Բնակարան
+pickup_date            = date        // Ստացման ամսաթիվ
+id_delivery_to_washing = int         // Դեպի լվացման առաքողի իդ
+id_delivery_to_home    = int         // Դեպի տուն առաքովի իդ
+wash_date              = date        // Լվացման ամսաթիվ
+delivery_date          = date        // Առաքման ամսաթիվ
+washer                 = int         // Լվացող 
+surface                = double      // Մակերես
+price                  = double      // Գին
+status                 = enum(dirty, clean) default dirty // Կարգավիճակ
+expected_date          = date        // Ակնկալվող ամսաթիվ
+code                   = int         // Կոդ
+desired_date           = date        // Ցանկալի ամսաթիվ
+location               = enum(abovyan, other) // Տեղանքը 
+delivery_time          = time         // Առաքման ժամ
+

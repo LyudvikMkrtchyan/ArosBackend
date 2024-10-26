@@ -1,0 +1,3 @@
+/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles/MyExecutable.dir
+/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles/edit_cache.dir
+/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles/rebuild_cache.dir
